@@ -16,4 +16,4 @@ _**What is the expected behavior?**_
 
 _**Which versions and which browser / OS are affected by this issue?**_
 
-_**Did this work in previous versions of React?**_
+_**Did this work in previous versions?**_
