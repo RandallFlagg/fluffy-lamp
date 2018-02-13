@@ -1,6 +1,7 @@
 ## Description
 <!--
 _Describe the problem or feature in addition to a link to the issues._
+_Please use the preview button to see the output before submitting._
 -->
 _**Do you want to request a *feature* or report a *bug*?**_
 
