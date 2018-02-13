@@ -8,6 +8,9 @@ _**Do you want to request a *feature* or report a *bug*?**_
 _**What is the current behavior?**_
 
 _**If the current behavior is a bug, please provide the steps to reproduce.**_
+1.
+2.
+3.
 
 _**What is the expected behavior?**_
 
