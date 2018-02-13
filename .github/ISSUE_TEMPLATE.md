@@ -1,8 +1,3 @@
-<!--
-  Note: if the issue is about documentation or the website, please file it at:
-  https://github.com/reactjs/reactjs.org/issues/new
--->
-
 ## Description
 <!--
 _Describe the problem or feature in addition to a link to the issues._
