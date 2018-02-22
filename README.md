@@ -19,6 +19,9 @@
 * Trance
 * Dubstep
 * Rapping
+* Jazz
+* Pop
+* Classic
 * &lt;CUSTOM&gt;
   
 ### Future Geners
